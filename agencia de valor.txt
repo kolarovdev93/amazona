@@ -1,0 +1,5 @@
+preco basico: 146552,41
+preco alto: 854889,04
+
+loja: 85488,90
+blog: 122127,01

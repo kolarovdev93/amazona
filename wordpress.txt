@@ -1,0 +1,62 @@
+user: admin
+password: 6W&l*{WRGXKg%+dZ6W&l*{WRGXKg%+dZ
+este credencial vale para o mautic tambem
+
+https://digitalinnovation.one/aceleracoes/aceleracao-global-dev-11-avanade
+
+usuario: audelciokolarov93@gmail.com
+senha: candido_1407
+
+
+loja woocomerce
+admin
+6W&l*{WRGXKg%+dZ6W&l*{WRGXKg%+dZ
+
+só abrir os links: https://web.digitalinnovation.one/track/banco-carrefour-data-engineer?tab=path
+
+
+id de medição do google analytics
+
+G-6QXYQBTDZW
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6QXYQBTDZW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6QXYQBTDZW');
+</script>
+
+usuario: 
+senha: pE$b6b@WV3n!z@s
+
+3337320861
+
+
+
+
+
+
+
+
+
+
+
+
+wordpress no cpanel
+
+user: admin
+senha: kolarov_1407
+
+
+
+CPANEL
+
+FREEHOSTING
+
+Username: corvusdi
+Password: j35rv1bTZ7
+
+Control Panel URL: https://panel.freehosting.com:2222/
